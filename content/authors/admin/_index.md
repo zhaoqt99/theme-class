@@ -1,48 +1,34 @@
 ---
 # Display name
-title: 物理中的几何相位-2025
-
-# Name pronunciation (optional)
-# Name_pronunciation: Chien Shiung Wu
-
-
+title: 物理中的几何相位（2025春）
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-# role: Director of Cloud Infrastructure
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+课程信息:
+  - area: 主讲教师
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+      - 牛谦   niuqian@ustc.edu.cn
+      - 高阳    ygao87@ustc.edu.cn
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  - area: 助教
+
+      - 赵青涛   zhaoqingtao@mail.ustc.edu.cn
+      - 张艺杰   @mail.ustc.edu.cn
+
+  - area: 上课时间：每周二（8，9，10） 上课地点：2321
+
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: '2023年课程主页'
+      url: 'http://home.ustc.edu.cn/~gengb/main_berry_2023.html'
+
+    button:
+      text: '2024年课程主页'
+      url: 'http://home.ustc.edu.cn/~lishu/geometric_phase_2024.html'
+
+
+
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -65,6 +51,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -89,47 +77,6 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

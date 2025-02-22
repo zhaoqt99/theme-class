@@ -40,6 +40,8 @@ superuser: true
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
+  
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -78,10 +80,15 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
+
+
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
+
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
